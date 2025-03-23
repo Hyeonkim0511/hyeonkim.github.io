@@ -1,13 +1,12 @@
 a:link {
-    color: red;    /* 방문하지 않은 링크 */
-  }
-  a:visited {
-    color: green;  /* 방문한 링크 */
-  }
-  a:hover {
-    color: hotpink; /* 마우스를 올렸을 때 */
-  }
-  a:active {
-    color: blue;   /* 클릭 중인 링크 */
-  }
-  
+  color: #FF6347;    /* 방문하지 않은 링크: Tomato */
+}
+a:visited {
+  color: #4682B4;    /* 방문한 링크: SteelBlue */
+}
+a:hover {
+  color: #DA70D6;    /* 마우스를 올렸을 때: Orchid */
+}
+a:active {
+  color: #FFD700;    /* 클릭 중인 링크: Gold */
+}
