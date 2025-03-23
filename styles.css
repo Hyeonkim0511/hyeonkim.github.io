@@ -1,0 +1,13 @@
+a:link {
+    color: red;    /* 방문하지 않은 링크 */
+  }
+  a:visited {
+    color: green;  /* 방문한 링크 */
+  }
+  a:hover {
+    color: hotpink; /* 마우스를 올렸을 때 */
+  }
+  a:active {
+    color: blue;   /* 클릭 중인 링크 */
+  }
+  
